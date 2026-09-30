@@ -1,0 +1,140 @@
+[
+  {
+    "file": "assets/images/hero/brick-form-hero.jpg",
+    "width": 1800,
+    "height": 760,
+    "bytes": 82745
+  },
+  {
+    "file": "assets/images/products/city_blocks.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 52805
+  },
+  {
+    "file": "assets/images/products/furniture.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 45643
+  },
+  {
+    "file": "assets/images/products/display.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 43490
+  },
+  {
+    "file": "assets/images/products/architectural_house.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 43303
+  },
+  {
+    "file": "assets/images/products/toolkit.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 44305
+  },
+  {
+    "file": "assets/images/products/tower.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 46209
+  },
+  {
+    "file": "assets/images/products/bridge.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 53107
+  },
+  {
+    "file": "assets/images/products/starter.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 40505
+  },
+  {
+    "file": "assets/images/products/room.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 40289
+  },
+  {
+    "file": "assets/images/products/paint.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 57654
+  },
+  {
+    "file": "assets/images/products/advanced.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 43104
+  },
+  {
+    "file": "assets/images/products/scenery.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 48808
+  },
+  {
+    "file": "assets/images/categories/architectural-models.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 36733
+  },
+  {
+    "file": "assets/images/categories/maker-tools.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 38364
+  },
+  {
+    "file": "assets/images/categories/display.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 38350
+  },
+  {
+    "file": "assets/images/categories/structural-kits.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 47948
+  },
+  {
+    "file": "assets/images/categories/finishing.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 43544
+  },
+  {
+    "file": "assets/images/categories/miniature-world.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 32859
+  },
+  {
+    "file": "assets/images/categories/building-sets.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 42130
+  },
+  {
+    "file": "assets/images/categories/gift-sets.jpg",
+    "width": 800,
+    "height": 800,
+    "bytes": 40830
+  },
+  {
+    "file": "assets/images/branding/brick-form-logo.png",
+    "width": 900,
+    "height": 900,
+    "bytes": 471935
+  },
+  {
+    "file": "assets/images/branding/favicon.png",
+    "width": 256,
+    "height": 256,
+    "bytes": 71852
+  }
+]

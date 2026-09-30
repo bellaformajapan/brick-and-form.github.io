@@ -1,0 +1,5 @@
+Local reference validation: PASS
+Missing references: []
+Product count: 12
+Category count: 8
+Image count: 23
