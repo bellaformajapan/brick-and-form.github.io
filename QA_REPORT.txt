@@ -1,5 +1,7 @@
-Local reference validation: PASS
+BRICK & FORM V2 QA
+HTML local references: PASS
 Missing references: []
-Product count: 12
-Category count: 8
-Image count: 23
+Product images: 12
+Category images: 8
+CSS/HTML class alignment: PASS — stylesheet rebuilt against actual markup.
+ZIP integrity: checked after packaging.
