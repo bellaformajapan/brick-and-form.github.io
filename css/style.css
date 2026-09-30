@@ -92,3 +92,11 @@ button,input,select{font:inherit}
   .benefitGrid,.footin{grid-template-columns:1fr}
   .hero h1{font-size:40px}.pageHero{padding:42px 25px}
 }
+.product img{aspect-ratio:1/1;object-fit:cover;background:#eee9df}
+.product .copy{padding:18px 19px 20px}
+.product h3{font-size:24px;margin:8px 0 9px}
+.product .eyebrow{font-size:9px}
+.product .meta{min-height:18px}
+.product .price{margin-top:9px}
+.product .actions{margin-top:14px}
+.muted{color:#6f6a62}

@@ -1,10 +1,9 @@
-# BRICK & FORM V2
+# BRICK & FORM V3
 
-## What was fixed
-- Replaced the broken stylesheet/class mismatch from V1.
-- Rebuilt the layout rules around the actual HTML class names.
-- Restored the full navigation, hero typography, buttons and product-card styling.
-- Increased the hero visual area and reduced excessive empty space.
-- Made category and product grids responsive.
-- Kept all imagery local and individually mapped.
-- Kept support contact and all storefront functionality.
+## Critical storefront repair
+- Removed the unrelated mens-underwear product dataset that had leaked into the BRICK & FORM build.
+- Reconnected all 12 product cards to the correct local BRICK & FORM imagery.
+- Rebuilt product-card markup so the CSS actually styles the cards shown on the page.
+- Fixed cart selectors and localStorage namespace.
+- Fixed image paths for both home and inner pages.
+- Kept the architectural/creative-building concept, prices, support details and local assets.
